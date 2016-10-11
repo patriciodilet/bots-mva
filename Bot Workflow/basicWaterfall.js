@@ -1,6 +1,6 @@
 /*
-This code sample demonstrates simple waterfall dialog. It uses beginDialog to manipulate the conversation stack and 
-builder.Prompts.text to gather user input and respond to it. Note how 
+This code sample demonstrates a simple waterfall dialog. It uses beginDialog to manipulate the conversation stack and 
+builder.Prompts.text to gather user input and respond to it.
 */
 var restify = require('restify');
 var builder = require('botbuilder');
